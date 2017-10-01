@@ -1,0 +1,58 @@
+	
+  body {
+		  background-image: url("code.jpg");
+	      background-size: 100%; 
+		  background-repeat: no-repeat; 
+		 		  }
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: grey;
+}
+.center1{
+float:center;
+}
+
+li {
+    float:left;
+}
+
+li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+font-weight: bold;
+}
+
+li a:hover {
+    background-color: white;
+color:grey;
+}
+.c{
+margin-top:100px;
+margin-bottom:10px;
+magin-right:350px;
+margin-left:500px;
+color:rgb(48, 43, 49)
+
+}
+.d
+{margin-top:10px;
+margin-bottom:40px;
+magin-right:450px;
+margin-left:550px;
+color:grey;
+}
+.e
+{margin-top:10px;
+margin-bottom:150px;
+
+margin-left:460px
+}
+.site{
+	float:right;
+}

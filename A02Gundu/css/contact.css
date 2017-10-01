@@ -1,0 +1,79 @@
+	
+  body {
+		  background-image: url("contact.jpg");
+	      background-size: 100%; 
+		  background-repeat: no-repeat; 
+		  }
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: orange;
+}
+
+li {
+    float: left;
+}
+
+li a {
+    display: block;
+    color: yellow;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+font-weight: bold;
+}
+
+li a:hover {
+    background-color: yellow;
+    color:orange;
+}
+input[type="text"]{
+margin:8px 0;
+padding:12px 20px;
+display:inline-block;
+float:center;
+width:20%;
+
+}
+input[type="Number"]{
+margin:8px 0;
+padding:12px 20px;
+display:inline-block;
+float:center;
+width:20%;
+
+}
+
+.c{
+margin-top:50px;
+margin-bottom:50px;
+magin-right:350px;
+margin-left:500px;
+align:center;
+
+
+}
+#con{
+
+float:right;
+font-weight: bold;
+color:#DD1E1E;
+text-align: center;
+
+}
+.x{
+    padding:12px 20px;
+}
+input[type=text]{
+    padding: 14px;
+    width:120%;
+}
+input [type=button]{
+    padding: 14px;
+    width:20%;
+}
+.site{
+	float:right;
+}
